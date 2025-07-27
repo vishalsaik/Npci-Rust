@@ -1,4 +1,4 @@
-// This is the entry point of the ATM simulator application.
+
 mod atm;
 mod account;
 mod utils;
@@ -8,8 +8,8 @@ use account::Account;
 use std::io;
 
 fn main() {
-    let mut atm = ATM::new(1000.0); // Initialize ATM with $1000 cash
-    let mut account = Account::new(500.0); // Initialize account with $500 balance
+    let mut atm = ATM::new(1000.0); 
+    let mut account = Account::new(500.0); 
 
     loop {
         println!("Welcome to the ATM!");

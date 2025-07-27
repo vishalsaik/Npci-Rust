@@ -1,4 +1,3 @@
-// This file contains utility functions that assist with input validation and other common tasks needed throughout the application.
 
 pub fn validate_amount(amount: f64) -> Result<f64, String> {
     if amount <= 0.0 {

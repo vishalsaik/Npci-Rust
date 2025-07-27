@@ -1,5 +1,3 @@
-// This file contains utility functions and types for the logger project. 
-// It may include error handling and validation functions that can be used across different logger implementations.
 
 use std::fs::File;
 use std::io::{self, Write};

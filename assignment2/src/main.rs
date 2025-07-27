@@ -1,4 +1,4 @@
-// filepath: loan-approval-system/src/main.rs
+
 mod loan;
 mod utils;
 

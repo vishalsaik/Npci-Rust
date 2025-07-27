@@ -1,4 +1,4 @@
-// filepath: loan-approval-system/src/utils.rs
+
 use std::num::ParseFloatError;
 
 #[derive(Debug)]

@@ -1,4 +1,4 @@
-// filepath: rust-logger/src/console_logger.rs
+
 use crate::logger::Logger;
 
 pub struct ConsoleLogger;
