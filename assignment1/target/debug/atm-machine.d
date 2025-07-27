@@ -1,1 +1,1 @@
-C:\Users\saivi\NpciRust\atm-machine\target\debug\atm-machine.exe: C:\Users\saivi\NpciRust\atm-machine\src\account.rs C:\Users\saivi\NpciRust\atm-machine\src\atm.rs C:\Users\saivi\NpciRust\atm-machine\src\main.rs C:\Users\saivi\NpciRust\atm-machine\src\utils.rs
+C:\Users\saivi\NpciRust\assignment1\target\debug\atm-machine.exe: C:\Users\saivi\NpciRust\assignment1\src\account.rs C:\Users\saivi\NpciRust\assignment1\src\atm.rs C:\Users\saivi\NpciRust\assignment1\src\main.rs

@@ -1,1 +1,1 @@
-C:\Users\saivi\NpciRust\rust-logger\target\debug\rust-logger.exe: C:\Users\saivi\NpciRust\rust-logger\src\console_logger.rs C:\Users\saivi\NpciRust\rust-logger\src\file_logger.rs C:\Users\saivi\NpciRust\rust-logger\src\logger.rs C:\Users\saivi\NpciRust\rust-logger\src\main.rs
+C:\Users\saivi\NpciRust\assignment3\target\debug\rust-logger.exe: C:\Users\saivi\NpciRust\assignment3\src\console_logger.rs C:\Users\saivi\NpciRust\assignment3\src\file_logger.rs C:\Users\saivi\NpciRust\assignment3\src\logger.rs C:\Users\saivi\NpciRust\assignment3\src\main.rs

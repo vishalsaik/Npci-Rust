@@ -1,7 +1,6 @@
 
 mod atm;
 mod account;
-mod utils;
 
 use atm::ATM;
 use account::Account;

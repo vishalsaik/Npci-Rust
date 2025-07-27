@@ -1,1 +1,1 @@
-C:\Users\saivi\NpciRust\loan-approval-system\target\debug\loan-approval-system.exe: C:\Users\saivi\NpciRust\loan-approval-system\src\loan.rs C:\Users\saivi\NpciRust\loan-approval-system\src\main.rs C:\Users\saivi\NpciRust\loan-approval-system\src\utils.rs
+C:\Users\saivi\NpciRust\assignment2\target\debug\loan-approval-system.exe: C:\Users\saivi\NpciRust\assignment2\src\loan.rs C:\Users\saivi\NpciRust\assignment2\src\main.rs C:\Users\saivi\NpciRust\assignment2\src\utils.rs
